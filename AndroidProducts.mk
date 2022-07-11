@@ -16,3 +16,7 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_agate.mk
+    
+COMMON_LUNCH_CHOICES := \
+    twrp_agate-userdebug \
+    twrp_agate-eng
