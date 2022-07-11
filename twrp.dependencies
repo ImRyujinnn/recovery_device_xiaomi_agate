@@ -1,7 +1,7 @@
 [
   {
-    "remote": "ImRyujinnn",
-    "repository": "recovery_device_xiaomi_agate",
+    "remote": "github",
+    "repository": "ImRyujinnn/recovery_device_xiaomi_agate",
     "target_path": "device/xiaomi/agate",
     "branch": "master"
   }
